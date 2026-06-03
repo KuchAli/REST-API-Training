@@ -1,0 +1,32 @@
+[
+    {
+    "nama":"Khidir Ali",
+    "umur":17,
+    "NIS": "0839392923",
+    "lulus":"true",
+    "hobby":[
+            "gaming",
+            "coding"
+    ],
+    "pembimbing":{
+            "pembimbing1":"Hendra",
+            "pembimbing2":"Anis"
+    }
+
+    },
+    {
+    "nama":"Khidir Ali",
+    "umur":17,
+    "NIS": "0839392923",
+    "lulus":"true",
+    "hobby":[
+            "gaming",
+            "coding"
+    ],
+    "pembimbing":{
+            "pembimbing1":"Hendra",
+            "pembimbing2":"Anis"
+    }
+
+    }
+]

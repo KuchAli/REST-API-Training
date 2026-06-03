@@ -1,0 +1,25 @@
+{
+    "menu":[
+        {
+            "kategori":"pizza",
+            "nama":"American Classic",
+            "deskripsi":"Enak Beut",
+            "harga":45000,
+            "gambar" : "american-classic.jpg"
+        },
+        {  
+            "kategori":"pizza",
+            "nama":"Extravaganza",
+            "deskripsi":"Enak Beut",
+            "harga":50000,
+            "gambar" : "pizza-extravaganza.jpeg"
+        },
+        {
+            "kategori":"pizza",
+            "nama":"Mexican Sozler",
+            "deskripsi":"Enak Beut",
+            "harga":55000,
+            "gambar" : "mexican-sozler.jpeg"
+        }
+    ]
+}
